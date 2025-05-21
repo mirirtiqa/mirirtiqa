@@ -24,13 +24,13 @@ Welcome to my little corner of the internet!
 
 ---
 
-## 🔥 GitHub Stats
+<!-- ## 🔥 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirirtiqa&theme=tokyonight)
 ![Irtiqa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirirtiqa&show_icons=true&theme=tokyonight)
 
 ---
-
+--->
 ## 🎨 My Creative Side
 
 When I’m not coding, you’ll find me:
