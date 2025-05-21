@@ -20,7 +20,7 @@ Welcome to my little corner of the internet!
 
 | 💻 Languages | ⚙️ Frameworks & Tools | 🎯 Interests |
 |-------------|------------------------|--------------|
-| C, JavaScript, TypeScript, Python | ReactJS, LlamaIndex, Google ADK, MongoDb | System Design, Organisms, Art |
+| C, JavaScript, TypeScript, Python | ReactJS, LlamaIndex, Google ADK, MongoDb | System Design, Civilisations and Societies, Art |
 
 ---
 
