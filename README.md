@@ -42,8 +42,8 @@ When I’m not coding, you’ll find me:
 
 ## 📬 Let's Connect
 
-- 🌐 [LinkedIn – Irtiqa Mir](https://in.linkedin.com/in/irtiqa-mir)
-- 🧑‍🚀 [GitHub – @mirirtiqa](https://github.com/mirirtiqa)
+- [LinkedIn – Irtiqa Mir](https://in.linkedin.com/in/irtiqa-mir)
+
 
 ---
 
